@@ -56,7 +56,5 @@ lcov.info
 !**/original_code/**/*.sh
 
 **/datasets/
-*.txt
-!**/saved_results/**/*.txt
 *.pickle
 *.pt
