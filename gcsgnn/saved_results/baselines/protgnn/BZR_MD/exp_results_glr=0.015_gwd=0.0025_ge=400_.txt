@@ -1,0 +1,8 @@
+2026-02-05_15:43:29
+Experiment, coverage, proximity, number of valid cfs found / number of undesired instances, time spend
+Experiment 0, 0, -1, 0 / 156, 61.19911479949951s
+Experiment 1, 0, -1, 0 / 156, 55.068708658218384s
+Experiment 2, 0, -1, 0 / 156, 71.75541520118713s
+Experiment 3, 0, -1, 0 / 156, 88.88452792167664s
+Experiment 4, 0, -1, 0 / 156, 79.6812469959259s
+Summary,0.0 ± 0.0,                 -1, 0.0, 358.15905356407166

@@ -1,0 +1,126 @@
+Start training GNN
+epoch 0: train_loss = 13.15360751748085, train_acc_g = 0.695, train_acc_cf = 0.307
+epoch 1: train_loss = 10.504634529352188, train_acc_g = 0.456, train_acc_cf = 0.966
+epoch 2: train_loss = 8.547281995415688, train_acc_g = 0.486, train_acc_cf = 0.959
+epoch 3: train_loss = 7.113558799028397, train_acc_g = 0.675, train_acc_cf = 0.416
+epoch 4: train_loss = 6.035867482423782, train_acc_g = 0.613, train_acc_cf = 0.602
+epoch 5: train_loss = 5.21221199631691, train_acc_g = 0.542, train_acc_cf = 0.75
+epoch 6: train_loss = 4.541592657566071, train_acc_g = 0.544, train_acc_cf = 0.737
+epoch 7: train_loss = 3.971322923898697, train_acc_g = 0.502, train_acc_cf = 0.809
+epoch 8: train_loss = 3.5069340243935585, train_acc_g = 0.521, train_acc_cf = 0.765
+epoch 9: train_loss = 3.1146416813135147, train_acc_g = 0.542, train_acc_cf = 0.701
+Evaluating GNN
+epoch 9: eval_loss = 2.9855521619319916, eval_acc_g = 0.494, eval_acc_cf = 0.572, time consumed = 219.88529133796692s
+epoch 10: train_loss = 2.8100895062088966, train_acc_g = 0.55, train_acc_cf = 0.668
+epoch 11: train_loss = 2.5916724875569344, train_acc_g = 0.553, train_acc_cf = 0.653
+epoch 12: train_loss = 2.3985215425491333, train_acc_g = 0.54, train_acc_cf = 0.669
+epoch 13: train_loss = 2.2543864473700523, train_acc_g = 0.538, train_acc_cf = 0.661
+epoch 14: train_loss = 2.1907635629177094, train_acc_g = 0.513, train_acc_cf = 0.706
+epoch 15: train_loss = 2.1381957083940506, train_acc_g = 0.574, train_acc_cf = 0.607
+epoch 16: train_loss = 2.0918183401226997, train_acc_g = 0.55, train_acc_cf = 0.649
+epoch 17: train_loss = 2.0491325519979, train_acc_g = 0.582, train_acc_cf = 0.617
+epoch 18: train_loss = 1.9996649287641048, train_acc_g = 0.564, train_acc_cf = 0.633
+epoch 19: train_loss = 1.9582773745059967, train_acc_g = 0.551, train_acc_cf = 0.69
+Evaluating GNN
+epoch 19: eval_loss = 1.934747762978077, eval_acc_g = 0.586, eval_acc_cf = 0.506, time consumed = 453.4401972293854s
+epoch 20: train_loss = 1.9144155271351337, train_acc_g = 0.605, train_acc_cf = 0.629
+epoch 21: train_loss = 1.8765955716371536, train_acc_g = 0.619, train_acc_cf = 0.642
+epoch 22: train_loss = 1.8274730034172535, train_acc_g = 0.625, train_acc_cf = 0.676
+epoch 23: train_loss = 1.786467481404543, train_acc_g = 0.658, train_acc_cf = 0.664
+epoch 24: train_loss = 1.736118033528328, train_acc_g = 0.694, train_acc_cf = 0.655
+epoch 25: train_loss = 1.6997255496680737, train_acc_g = 0.695, train_acc_cf = 0.695
+epoch 26: train_loss = 1.653643187135458, train_acc_g = 0.735, train_acc_cf = 0.682
+epoch 27: train_loss = 1.6279345862567425, train_acc_g = 0.712, train_acc_cf = 0.769
+epoch 28: train_loss = 1.5838003531098366, train_acc_g = 0.774, train_acc_cf = 0.703
+epoch 29: train_loss = 1.5537534095346928, train_acc_g = 0.756, train_acc_cf = 0.785
+Evaluating GNN
+epoch 29: eval_loss = 1.5400002151727676, eval_acc_g = 0.796, eval_acc_cf = 0.686, time consumed = 683.6143124103546s
+epoch 30: train_loss = 1.5293799079954624, train_acc_g = 0.78, train_acc_cf = 0.781
+epoch 31: train_loss = 1.5024295523762703, train_acc_g = 0.786, train_acc_cf = 0.819
+epoch 32: train_loss = 1.473119344562292, train_acc_g = 0.785, train_acc_cf = 0.866
+epoch 33: train_loss = 1.4591169469058514, train_acc_g = 0.776, train_acc_cf = 0.874
+epoch 34: train_loss = 1.4348139092326164, train_acc_g = 0.784, train_acc_cf = 0.898
+epoch 35: train_loss = 1.418648399412632, train_acc_g = 0.789, train_acc_cf = 0.902
+epoch 36: train_loss = 1.3951184041798115, train_acc_g = 0.798, train_acc_cf = 0.948
+epoch 37: train_loss = 1.3737819194793701, train_acc_g = 0.797, train_acc_cf = 0.966
+epoch 38: train_loss = 1.3628579527139664, train_acc_g = 0.799, train_acc_cf = 0.971
+epoch 39: train_loss = 1.3439362831413746, train_acc_g = 0.802, train_acc_cf = 0.986
+Evaluating GNN
+epoch 39: eval_loss = 1.3354779928922653, eval_acc_g = 0.828, eval_acc_cf = 0.97, time consumed = 923.6403524875641s
+epoch 40: train_loss = 1.3328367918729782, train_acc_g = 0.8, train_acc_cf = 0.985
+epoch 41: train_loss = 1.3169457949697971, train_acc_g = 0.8, train_acc_cf = 0.989
+epoch 42: train_loss = 1.301915593445301, train_acc_g = 0.802, train_acc_cf = 0.992
+epoch 43: train_loss = 1.297361247241497, train_acc_g = 0.807, train_acc_cf = 0.995
+epoch 44: train_loss = 1.281051877886057, train_acc_g = 0.804, train_acc_cf = 0.997
+epoch 45: train_loss = 1.2748797684907913, train_acc_g = 0.797, train_acc_cf = 0.997
+epoch 46: train_loss = 1.2519797421991825, train_acc_g = 0.808, train_acc_cf = 0.999
+epoch 47: train_loss = 1.2359929159283638, train_acc_g = 0.801, train_acc_cf = 0.999
+epoch 48: train_loss = 1.2307536154985428, train_acc_g = 0.806, train_acc_cf = 1.0
+epoch 49: train_loss = 1.215603407472372, train_acc_g = 0.81, train_acc_cf = 1.0
+Evaluating GNN
+epoch 49: eval_loss = 1.197518341243267, eval_acc_g = 0.828, eval_acc_cf = 1.0, time consumed = 1152.164738893509s
+epoch 50: train_loss = 1.2053769268095493, train_acc_g = 0.804, train_acc_cf = 1.0
+epoch 51: train_loss = 1.1949037164449692, train_acc_g = 0.798, train_acc_cf = 1.0
+epoch 52: train_loss = 1.1765869818627834, train_acc_g = 0.809, train_acc_cf = 1.0
+epoch 53: train_loss = 1.1646206676959991, train_acc_g = 0.812, train_acc_cf = 1.0
+epoch 54: train_loss = 1.1631046906113625, train_acc_g = 0.81, train_acc_cf = 1.0
+epoch 55: train_loss = 1.1403483003377914, train_acc_g = 0.812, train_acc_cf = 1.0
+epoch 56: train_loss = 1.1342160105705261, train_acc_g = 0.812, train_acc_cf = 1.0
+epoch 57: train_loss = 1.1185477618128061, train_acc_g = 0.815, train_acc_cf = 1.0
+epoch 58: train_loss = 1.1120934449136257, train_acc_g = 0.808, train_acc_cf = 1.0
+epoch 59: train_loss = 1.0945402327924967, train_acc_g = 0.808, train_acc_cf = 1.0
+Evaluating GNN
+epoch 59: eval_loss = 1.0868410617113113, eval_acc_g = 0.824, eval_acc_cf = 1.0, time consumed = 1419.3736901283264s
+epoch 60: train_loss = 1.0846285205334425, train_acc_g = 0.819, train_acc_cf = 1.0
+epoch 61: train_loss = 1.0843958761543036, train_acc_g = 0.808, train_acc_cf = 1.0
+epoch 62: train_loss = 1.0822143945842981, train_acc_g = 0.809, train_acc_cf = 1.0
+epoch 63: train_loss = 1.0800872426480055, train_acc_g = 0.813, train_acc_cf = 1.0
+epoch 64: train_loss = 1.0512384790927172, train_acc_g = 0.812, train_acc_cf = 1.0
+epoch 65: train_loss = 1.0411217547953129, train_acc_g = 0.812, train_acc_cf = 1.0
+epoch 66: train_loss = 1.0420140475034714, train_acc_g = 0.813, train_acc_cf = 1.0
+epoch 67: train_loss = 1.0361069962382317, train_acc_g = 0.802, train_acc_cf = 1.0
+epoch 68: train_loss = 1.0269648153334856, train_acc_g = 0.809, train_acc_cf = 1.0
+epoch 69: train_loss = 1.0333328768610954, train_acc_g = 0.813, train_acc_cf = 1.0
+Evaluating GNN
+epoch 69: eval_loss = 1.0105989687144756, eval_acc_g = 0.814, eval_acc_cf = 1.0, time consumed = 1734.1065442562103s
+epoch 70: train_loss = 1.0200378876179457, train_acc_g = 0.813, train_acc_cf = 1.0
+epoch 71: train_loss = 1.0184521786868572, train_acc_g = 0.801, train_acc_cf = 0.999
+epoch 72: train_loss = 1.0100002959370613, train_acc_g = 0.811, train_acc_cf = 1.0
+epoch 73: train_loss = 1.0057386122643948, train_acc_g = 0.802, train_acc_cf = 0.999
+epoch 74: train_loss = 0.9841182511299849, train_acc_g = 0.812, train_acc_cf = 1.0
+epoch 75: train_loss = 0.983434796333313, train_acc_g = 0.814, train_acc_cf = 0.999
+epoch 76: train_loss = 0.9957581888884306, train_acc_g = 0.813, train_acc_cf = 1.0
+epoch 77: train_loss = 0.9687629882246256, train_acc_g = 0.818, train_acc_cf = 1.0
+epoch 78: train_loss = 0.9628835748881102, train_acc_g = 0.812, train_acc_cf = 1.0
+epoch 79: train_loss = 0.9589893352240324, train_acc_g = 0.811, train_acc_cf = 1.0
+Evaluating GNN
+epoch 79: eval_loss = 0.9711767323315144, eval_acc_g = 0.83, eval_acc_cf = 1.0, time consumed = 1943.456255197525s
+epoch 80: train_loss = 0.9656790439039469, train_acc_g = 0.816, train_acc_cf = 1.0
+epoch 81: train_loss = 0.962885333225131, train_acc_g = 0.815, train_acc_cf = 1.0
+epoch 82: train_loss = 0.942574379965663, train_acc_g = 0.814, train_acc_cf = 1.0
+epoch 83: train_loss = 0.9393758960068226, train_acc_g = 0.818, train_acc_cf = 1.0
+epoch 84: train_loss = 0.9428346119821072, train_acc_g = 0.812, train_acc_cf = 1.0
+epoch 85: train_loss = 0.936706056818366, train_acc_g = 0.816, train_acc_cf = 0.998
+epoch 86: train_loss = 0.9262048657983541, train_acc_g = 0.818, train_acc_cf = 1.0
+epoch 87: train_loss = 0.9388810973614454, train_acc_g = 0.811, train_acc_cf = 1.0
+epoch 88: train_loss = 0.9285072013735771, train_acc_g = 0.814, train_acc_cf = 1.0
+epoch 89: train_loss = 0.9326189812272787, train_acc_g = 0.815, train_acc_cf = 0.999
+Evaluating GNN
+epoch 89: eval_loss = 0.9184924215078354, eval_acc_g = 0.828, eval_acc_cf = 1.0, time consumed = 2166.2213582992554s
+epoch 90: train_loss = 0.9249447043985128, train_acc_g = 0.817, train_acc_cf = 1.0
+epoch 91: train_loss = 0.9106150437146425, train_acc_g = 0.814, train_acc_cf = 1.0
+epoch 92: train_loss = 0.9302834421396255, train_acc_g = 0.817, train_acc_cf = 1.0
+epoch 93: train_loss = 0.9137811604887247, train_acc_g = 0.823, train_acc_cf = 1.0
+epoch 94: train_loss = 0.9218521285802126, train_acc_g = 0.816, train_acc_cf = 1.0
+epoch 95: train_loss = 0.9009339641779661, train_acc_g = 0.814, train_acc_cf = 1.0
+epoch 96: train_loss = 0.8882159050554037, train_acc_g = 0.817, train_acc_cf = 1.0
+epoch 97: train_loss = 0.8906303737312555, train_acc_g = 0.817, train_acc_cf = 1.0
+epoch 98: train_loss = 0.8945410307496786, train_acc_g = 0.814, train_acc_cf = 1.0
+epoch 99: train_loss = 0.8845535255968571, train_acc_g = 0.811, train_acc_cf = 1.0
+Evaluating GNN
+epoch 99: eval_loss = 0.900173719972372, eval_acc_g = 0.838, eval_acc_cf = 1.0, time consumed = 2394.2135882377625s
+best_train_loss = 0.8845535255968571, best_train_acc_g = 0.811, best_train_acc_cf = 1.0, best_eval_loss = 0.900173719972372, best_eval_acc_g = 0.838, best_eval_acc_cf = 1.0, time consumed = 2394.213723897934s
+Completed training GNN
+Start testing GNN
+test_loss = 0.9105001911520958, test_acc_g = 0.814, test_acc_cf = 0.998
+Completed testing GNN

@@ -1,0 +1,202 @@
+Start training
+Epoch 1: loss = 0.891 | acc = 0.775 | time = 1.6455976963043213
+Eval: loss = 0.780 | acc = 0.784
+Epoch 2: loss = 0.673 | acc = 0.804 | time = 3.258272647857666
+Eval: loss = 0.621 | acc = 0.784
+Epoch 3: loss = 0.530 | acc = 0.804 | time = 4.956353664398193
+Eval: loss = 0.545 | acc = 0.784
+Epoch 4: loss = 0.430 | acc = 0.804 | time = 6.707042217254639
+Eval: loss = 0.471 | acc = 0.784
+Epoch 5: loss = 0.337 | acc = 0.804 | time = 8.295233249664307
+Eval: loss = 0.346 | acc = 0.784
+Epoch 6: loss = 0.230 | acc = 0.804 | time = 10.070754766464233
+Eval: loss = 0.248 | acc = 0.784
+Epoch 7: loss = 0.154 | acc = 0.804 | time = 11.921668291091919
+Eval: loss = 0.191 | acc = 0.784
+Epoch 8: loss = 0.054 | acc = 0.804 | time = 13.641493558883667
+Eval: loss = 0.112 | acc = 0.784
+Epoch 9: loss = -0.041 | acc = 0.804 | time = 15.324332475662231
+Eval: loss = 0.066 | acc = 0.784
+Epoch 10: loss = -0.142 | acc = 0.804 | time = 16.951485633850098
+Eval: loss = -0.025 | acc = 0.784
+Epoch 11: loss = 0.494 | acc = 0.803 | time = 20.212149381637573
+Eval: loss = 0.468 | acc = 0.776
+Epoch 12: loss = 0.427 | acc = 0.794 | time = 21.89237642288208
+Eval: loss = 0.437 | acc = 0.786
+Epoch 13: loss = 0.415 | acc = 0.797 | time = 23.545302391052246
+Eval: loss = 0.455 | acc = 0.788
+Epoch 14: loss = 0.397 | acc = 0.806 | time = 25.21253991127014
+Eval: loss = 0.433 | acc = 0.790
+Epoch 15: loss = 0.387 | acc = 0.812 | time = 26.84159779548645
+Eval: loss = 0.419 | acc = 0.790
+Epoch 16: loss = 0.382 | acc = 0.806 | time = 28.503978490829468
+Eval: loss = 0.405 | acc = 0.788
+Epoch 17: loss = 0.377 | acc = 0.810 | time = 30.11988067626953
+Eval: loss = 0.414 | acc = 0.784
+Epoch 18: loss = 0.370 | acc = 0.805 | time = 31.724607229232788
+Eval: loss = 0.399 | acc = 0.794
+Epoch 19: loss = 0.367 | acc = 0.807 | time = 33.36792993545532
+Eval: loss = 0.411 | acc = 0.790
+Epoch 20: loss = 0.355 | acc = 0.810 | time = 35.03665566444397
+Eval: loss = 0.388 | acc = 0.790
+Epoch 21: loss = 0.497 | acc = 0.806 | time = 38.250444173812866
+Eval: loss = 0.453 | acc = 0.786
+Epoch 22: loss = 0.425 | acc = 0.807 | time = 39.98528289794922
+Eval: loss = 0.446 | acc = 0.778
+Epoch 23: loss = 0.413 | acc = 0.814 | time = 41.66940140724182
+Eval: loss = 0.473 | acc = 0.782
+Epoch 24: loss = 0.404 | acc = 0.812 | time = 43.29560899734497
+Eval: loss = 0.428 | acc = 0.786
+Epoch 25: loss = 0.403 | acc = 0.824 | time = 44.992499351501465
+Eval: loss = 0.414 | acc = 0.786
+Epoch 26: loss = 0.395 | acc = 0.812 | time = 46.71413278579712
+Eval: loss = 0.417 | acc = 0.790
+Epoch 27: loss = 0.390 | acc = 0.811 | time = 48.34769034385681
+Eval: loss = 0.430 | acc = 0.794
+Epoch 28: loss = 0.388 | acc = 0.811 | time = 49.983498334884644
+Eval: loss = 0.420 | acc = 0.792
+Epoch 29: loss = 0.389 | acc = 0.814 | time = 51.61379885673523
+Eval: loss = 0.436 | acc = 0.796
+Epoch 30: loss = 0.381 | acc = 0.821 | time = 53.2632200717926
+Eval: loss = 0.409 | acc = 0.790
+Epoch 31: loss = 0.487 | acc = 0.803 | time = 56.41739773750305
+Eval: loss = 0.435 | acc = 0.790
+Epoch 32: loss = 0.424 | acc = 0.804 | time = 58.043699979782104
+Eval: loss = 0.442 | acc = 0.792
+Epoch 33: loss = 0.413 | acc = 0.811 | time = 59.7226665019989
+Eval: loss = 0.432 | acc = 0.790
+Epoch 34: loss = 0.413 | acc = 0.809 | time = 61.376800298690796
+Eval: loss = 0.427 | acc = 0.794
+Epoch 35: loss = 0.407 | acc = 0.823 | time = 63.001274824142456
+Eval: loss = 0.426 | acc = 0.788
+Epoch 36: loss = 0.398 | acc = 0.815 | time = 64.6366777420044
+Eval: loss = 0.440 | acc = 0.782
+Epoch 37: loss = 0.407 | acc = 0.827 | time = 66.25647687911987
+Eval: loss = 0.425 | acc = 0.806
+Epoch 38: loss = 0.393 | acc = 0.823 | time = 68.05562829971313
+Eval: loss = 0.426 | acc = 0.804
+Epoch 39: loss = 0.394 | acc = 0.828 | time = 69.79200720787048
+Eval: loss = 0.423 | acc = 0.808
+Epoch 40: loss = 0.396 | acc = 0.824 | time = 71.81559038162231
+Eval: loss = 0.428 | acc = 0.804
+Epoch 41: loss = 0.515 | acc = 0.807 | time = 75.00666379928589
+Eval: loss = 0.506 | acc = 0.784
+Epoch 42: loss = 0.444 | acc = 0.816 | time = 76.75897479057312
+Eval: loss = 0.464 | acc = 0.790
+Epoch 43: loss = 0.440 | acc = 0.809 | time = 78.43590593338013
+Eval: loss = 0.463 | acc = 0.784
+Epoch 44: loss = 0.427 | acc = 0.809 | time = 80.13724207878113
+Eval: loss = 0.539 | acc = 0.784
+Epoch 45: loss = 0.445 | acc = 0.812 | time = 81.82244372367859
+Eval: loss = 0.452 | acc = 0.786
+Epoch 46: loss = 0.427 | acc = 0.806 | time = 83.45041084289551
+Eval: loss = 0.457 | acc = 0.788
+Epoch 47: loss = 0.412 | acc = 0.818 | time = 85.1440851688385
+Eval: loss = 0.447 | acc = 0.794
+Epoch 48: loss = 0.410 | acc = 0.824 | time = 86.7766969203949
+Eval: loss = 0.455 | acc = 0.786
+Epoch 49: loss = 0.408 | acc = 0.818 | time = 88.40806126594543
+Eval: loss = 0.430 | acc = 0.806
+Epoch 50: loss = 0.399 | acc = 0.826 | time = 90.0335431098938
+Eval: loss = 0.472 | acc = 0.786
+Epoch 51: loss = 0.473 | acc = 0.816 | time = 93.31814527511597
+Eval: loss = 0.488 | acc = 0.792
+Epoch 52: loss = 0.437 | acc = 0.825 | time = 95.00592064857483
+Eval: loss = 0.469 | acc = 0.786
+Epoch 53: loss = 0.440 | acc = 0.808 | time = 96.67162084579468
+Eval: loss = 0.497 | acc = 0.786
+Epoch 54: loss = 0.421 | acc = 0.819 | time = 98.44199419021606
+Eval: loss = 0.483 | acc = 0.784
+Epoch 55: loss = 0.420 | acc = 0.811 | time = 100.07266116142273
+Eval: loss = 0.447 | acc = 0.794
+Epoch 56: loss = 0.412 | acc = 0.827 | time = 101.81359601020813
+Eval: loss = 0.462 | acc = 0.792
+Epoch 57: loss = 0.416 | acc = 0.813 | time = 103.45385241508484
+Eval: loss = 0.433 | acc = 0.792
+Epoch 58: loss = 0.407 | acc = 0.827 | time = 105.19837093353271
+Eval: loss = 0.447 | acc = 0.790
+Epoch 59: loss = 0.405 | acc = 0.823 | time = 106.95934796333313
+Eval: loss = 0.459 | acc = 0.786
+Epoch 60: loss = 0.409 | acc = 0.826 | time = 108.72193384170532
+Eval: loss = 0.448 | acc = 0.792
+Epoch 61: loss = 0.436 | acc = 0.824 | time = 111.84690952301025
+Eval: loss = 0.482 | acc = 0.796
+Epoch 62: loss = 0.409 | acc = 0.827 | time = 113.47849130630493
+Eval: loss = 0.493 | acc = 0.780
+Epoch 63: loss = 0.418 | acc = 0.817 | time = 115.1048674583435
+Eval: loss = 0.437 | acc = 0.796
+Epoch 64: loss = 0.402 | acc = 0.826 | time = 116.77412128448486
+Eval: loss = 0.453 | acc = 0.808
+Epoch 65: loss = 0.412 | acc = 0.819 | time = 118.42524456977844
+Eval: loss = 0.458 | acc = 0.788
+Epoch 66: loss = 0.408 | acc = 0.829 | time = 120.06262016296387
+Eval: loss = 0.487 | acc = 0.794
+Epoch 67: loss = 0.402 | acc = 0.822 | time = 121.71367192268372
+Eval: loss = 0.447 | acc = 0.802
+Epoch 68: loss = 0.406 | acc = 0.824 | time = 123.39809012413025
+Eval: loss = 0.431 | acc = 0.802
+Epoch 69: loss = 0.398 | acc = 0.832 | time = 125.0287594795227
+Eval: loss = 0.450 | acc = 0.802
+Epoch 70: loss = 0.400 | acc = 0.820 | time = 126.65089058876038
+Eval: loss = 0.430 | acc = 0.800
+Epoch 71: loss = 0.438 | acc = 0.819 | time = 129.77788066864014
+Eval: loss = 0.438 | acc = 0.794
+Epoch 72: loss = 0.412 | acc = 0.828 | time = 131.53403282165527
+Eval: loss = 0.477 | acc = 0.790
+Epoch 73: loss = 0.401 | acc = 0.825 | time = 133.25622534751892
+Eval: loss = 0.455 | acc = 0.802
+Epoch 74: loss = 0.401 | acc = 0.837 | time = 135.02101492881775
+Eval: loss = 0.459 | acc = 0.792
+Epoch 75: loss = 0.405 | acc = 0.830 | time = 136.98524832725525
+Eval: loss = 0.437 | acc = 0.802
+Epoch 76: loss = 0.409 | acc = 0.834 | time = 138.69834923744202
+Eval: loss = 0.438 | acc = 0.800
+Epoch 77: loss = 0.404 | acc = 0.820 | time = 140.42810893058777
+Eval: loss = 0.437 | acc = 0.804
+Epoch 78: loss = 0.415 | acc = 0.822 | time = 142.18756651878357
+Eval: loss = 0.434 | acc = 0.804
+Epoch 79: loss = 0.394 | acc = 0.833 | time = 143.78779649734497
+Eval: loss = 0.458 | acc = 0.800
+Epoch 80: loss = 0.395 | acc = 0.827 | time = 145.4004466533661
+Eval: loss = 0.430 | acc = 0.798
+Epoch 81: loss = 0.417 | acc = 0.830 | time = 148.49493837356567
+Eval: loss = 0.498 | acc = 0.780
+Epoch 82: loss = 0.400 | acc = 0.824 | time = 150.11686730384827
+Eval: loss = 0.436 | acc = 0.800
+Epoch 83: loss = 0.428 | acc = 0.805 | time = 151.7340953350067
+Eval: loss = 0.441 | acc = 0.804
+Epoch 84: loss = 0.411 | acc = 0.827 | time = 153.35019826889038
+Eval: loss = 0.460 | acc = 0.794
+Epoch 85: loss = 0.398 | acc = 0.833 | time = 154.97454619407654
+Eval: loss = 0.466 | acc = 0.804
+Epoch 86: loss = 0.393 | acc = 0.827 | time = 156.63227891921997
+Eval: loss = 0.430 | acc = 0.800
+Epoch 87: loss = 0.394 | acc = 0.838 | time = 158.2737114429474
+Eval: loss = 0.423 | acc = 0.802
+Epoch 88: loss = 0.397 | acc = 0.833 | time = 160.06454277038574
+Eval: loss = 0.429 | acc = 0.800
+Epoch 89: loss = 0.395 | acc = 0.833 | time = 161.76543521881104
+Eval: loss = 0.437 | acc = 0.802
+Epoch 90: loss = 0.397 | acc = 0.845 | time = 163.60780477523804
+Eval: loss = 0.422 | acc = 0.806
+Epoch 91: loss = 0.433 | acc = 0.833 | time = 167.0477318763733
+Eval: loss = 0.487 | acc = 0.796
+Epoch 92: loss = 0.396 | acc = 0.834 | time = 168.73360538482666
+Eval: loss = 0.496 | acc = 0.794
+Epoch 93: loss = 0.410 | acc = 0.830 | time = 170.4058051109314
+Eval: loss = 0.476 | acc = 0.794
+Epoch 94: loss = 0.400 | acc = 0.837 | time = 172.12391448020935
+Eval: loss = 0.450 | acc = 0.796
+Epoch 95: loss = 0.393 | acc = 0.838 | time = 173.75292897224426
+Eval: loss = 0.467 | acc = 0.798
+Epoch 96: loss = 0.398 | acc = 0.831 | time = 175.4303538799286
+Eval: loss = 0.428 | acc = 0.802
+Epoch 97: loss = 0.388 | acc = 0.835 | time = 177.1042914390564
+Eval: loss = 0.430 | acc = 0.800
+Epoch 98: loss = 0.402 | acc = 0.832 | time = 178.72631072998047
+Eval: loss = 0.438 | acc = 0.798
+Epoch 99: loss = 0.394 | acc = 0.828 | time = 180.3860845565796
+Eval: loss = 0.449 | acc = 0.802
+Epoch 100: loss = 0.390 | acc = 0.838 | time = 182.01996445655823
+Eval: loss = 0.458 | acc = 0.800
+Test: loss = 0.390 | acc = 0.830 | best_eval_loss = 0.423 | best_eval_acc = 0.808
